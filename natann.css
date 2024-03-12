@@ -1,5 +1,12 @@
-.body{background: linear-gradient(blue, lightblue, lightgray );
-}
-.h1{ 
+h1 {
     text-align: center;
+}
+body {
+    background-color: lightgray;
+}
+p {
+    font-size: larger;
+}
+.imgvolei{
+    width: 400%;
 }
