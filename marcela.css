@@ -33,7 +33,7 @@ ul {
 }
 @media(max-width: 410px) {
     body{
-        background-color: aqua;
+        background-color: white;
     }
     p{
         font-style: oblique;
