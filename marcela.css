@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    border-color: black;
+    border-width: 15px;
+    border-style: inset;
+    font-weight: 900;
+    
+}
+body {
+    background-color: lightgray;
+}
+
+
+p {
+    font-size: large;
+}
+.imgvolei{
+    width: 400%;
+}
+ul {
+    font-size: larger;
+    font-style: italic;}
+    .sisteam{
+        text-align: center;
+        width: 40px;
+    }
+    .para {
+        display: inline-block;
+    }
+.taka {
+    
+    text-align: center;
+}
+@media(max-width: 410px) {
+    body{
+        background-color: aqua;
+    }
+    p{
+        font-style: oblique;
+    }
+}
+@media(max-width:600px) {
+    h1{
+        color: blue;
+        font-style: italic;
+    }
+}
